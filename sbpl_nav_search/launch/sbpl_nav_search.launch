@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="sbpl_nav_search" name="sbpl_nav_search" type="sbpl_nav_search.py">
+  </node>
+
+</launch>
+
